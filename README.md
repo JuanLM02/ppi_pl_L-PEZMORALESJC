@@ -1,2 +1,3 @@
 # ppi_pl_L-PEZMORALESJC
-información relativa de proyecto libre.
+Soy Juan Camilo López Morales estudiante de ingenieria de sistemas e informatica. 
+Trabajare en un proyecto libre enfocado en el freenlance
