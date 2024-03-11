@@ -5,4 +5,5 @@ Soy un profesional apasionado por la ciencia de datos y la ingeniería de softwa
 perfiles disponibles
 - Upwork 
 - fiver
+- Workana
 
